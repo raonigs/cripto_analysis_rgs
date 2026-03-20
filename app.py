@@ -563,7 +563,7 @@ def build_score_radar(sub_scores: dict) -> go.Figure:
 with st.sidebar:
     st.markdown('<div style="font-family:Space Mono,monospace;font-size:18px;font-weight:700;color:#60a5fa;margin-bottom:4px">⚡ CRYPTO INTEL</div>', unsafe_allow_html=True)
     st.markdown('<div style="font-size:11px;color:#4a6080;letter-spacing:1px;margin-bottom:20px">DASHBOARD DE ANÁLISE TÉCNICA</div>', unsafe_allow_html=True)
-    st.markdown('<div style="font-size:10px;color:#4a6080;letter-spacing:1px;margin-bottom:30px;margin-top:-20px">Powered by raonigs/div>', unsafe_allow_html=True)
+    st.markdown('<div style="font-size:10px;color:#4a6080;letter-spacing:1px;margin-bottom:30px;margin-top:-20px">Powered by raonigs</div>', unsafe_allow_html=True)
     st.divider()
 
     # ── Seletor de Modelo de IA ──────────────────────────────────────────────
